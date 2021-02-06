@@ -49,6 +49,6 @@ Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 <meta name="picnode:buttonurl" content="https://xxxxxx.link/buttonredirection">
 ```
 
-Ezek végeredménye valahogy így fog kinézni:
+Ezek végeredménye a PicNode hivatalos oldalának lekérésekor:
 
 ![](https://media.discordapp.net/attachments/710454509742325770/807631374709293155/unknown.png)

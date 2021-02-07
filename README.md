@@ -36,6 +36,7 @@ Egyéni adatokat is megadhatsz, ezeket fogja elsődlegesen kezelni a webfelderí
 - picnode:sitetitle
 - picnode:sitedescription
 - picnode:siteurl
+- picnode:sitelogo
 - picnode:buttontext
 - picnode:buttonurl
 
@@ -43,6 +44,7 @@ Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 ```html
 <meta name="picnode:thumbnail" content="https://xxxxxx.link/myimage.png">
 <meta name="picnode:sitetitle" content="My example site title">
+<meta name="picnode:sitelogo" content="https://xxxxxx.link/favicon.png">
 <meta name="picnode:sitedescription" content="My example description of my site.">
 <meta name="picnode:siteurl" content="I can modify where the site title will redirect on click">
 <meta name="picnode:buttontext" content="Register for free">

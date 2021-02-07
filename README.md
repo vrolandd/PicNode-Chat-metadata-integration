@@ -1,6 +1,6 @@
 # PicNode Chat
 Üdvözlök minden érdeklődőt!
-Ebben a dokumentációban a PicNode Chat metaadat inegrációjáról olvashatsz, avagy arról, hogyan tudod személyre szabni weboldalad megjelenését a PicNode Chat-ben.
+Ebben a dokumentációban a PicNode Chat metaadat integrációjáról olvashatsz, avagy arról, hogyan tudod személyre szabni weboldalad megjelenését a PicNode Chat-ben.
 
 ### A PicNode Chat működése
 Ha PicNode Chat-en egy linket elküldenek, a PicNode Web Crawler ezt az oldalt elemzi, majd értelmezi a metaadatokat.

@@ -52,7 +52,13 @@ Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 
 ```html
 <meta name="picnode:sitelogo" content="https://xxxxxx.link/favicon.png">
-<meta name="picnode:sitedescription" content="My example description of my site.">
+```
+![](https://cdn.discordapp.com/attachments/770911106075197441/808754437660868638/unknown.png)
+```html
+<meta name="picnode:sitedescription" content="Leírása a weboldalamnak">
+```
+![](https://cdn.discordapp.com/attachments/770911106075197441/808754844096528414/unknown.png)
+```html
 <meta name="picnode:siteurl" content="I can modify where the site title will redirect on click">
 <meta name="picnode:buttontext" content="Register for free">
 <meta name="picnode:buttonurl" content="https://xxxxxx.link/buttonredirection">

@@ -59,10 +59,16 @@ Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 ```
 ![](https://cdn.discordapp.com/attachments/770911106075197441/808754844096528414/unknown.png)
 ```html
-<meta name="picnode:siteurl" content="I can modify where the site title will redirect on click">
+<meta name="picnode:siteurl" content="https://test.picnode.hu">
 <meta name="picnode:buttontext" content="Register for free">
+```
+![](https://cdn.discordapp.com/attachments/770911106075197441/808756176187162694/unknown.png)
+```html
 <meta name="picnode:buttonurl" content="https://xxxxxx.link/buttonredirection">
 ```
+
+Ezek végeredménye:
+![](https://cdn.discordapp.com/attachments/770911106075197441/808756176187162694/unknown.png)
 
 Ezek végeredménye a PicNode hivatalos oldalának lekérésekor:
 

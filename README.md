@@ -42,12 +42,14 @@ Egyéni adatokat is megadhatsz, ezeket fogja elsődlegesen kezelni a webfelderí
 
 Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 ```html
-<meta name="picnode:thumbnail" content="https://xxxxxx.link/myimage.png">
-```
-```html
 <meta name="picnode:sitetitle" content="Példa cím">
 ```
 ![](https://cdn.discordapp.com/attachments/770911106075197441/808753403274592357/unknown.png)
+```html
+<meta name="picnode:thumbnail" content="https://xxxxxx.link/myimage.png">
+```
+![](https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
 ```html
 <meta name="picnode:sitelogo" content="https://xxxxxx.link/favicon.png">
 <meta name="picnode:sitedescription" content="My example description of my site.">

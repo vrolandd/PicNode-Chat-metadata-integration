@@ -68,8 +68,12 @@ Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 ```
 
 Ezek végeredménye:
+
 ![](https://cdn.discordapp.com/attachments/770911106075197441/808756176187162694/unknown.png)
 
 Ezek végeredménye a PicNode hivatalos oldalának lekérésekor:
 
 ![](https://media.discordapp.net/attachments/710454509742325770/807631374709293155/unknown.png)
+
+
+FONTOS! A DIZÁJN/FELÜLET MÉG VÁLTOZHAT! EZEK A KÉPEK CSAK SZEMLÉLTETŐ JELLEGŐ PÉLDÁK!

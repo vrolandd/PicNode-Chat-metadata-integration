@@ -48,7 +48,7 @@ Ezeket egyszerűen tudod közölni a PicNode Web Crawler-rel:
 ```html
 <meta name="picnode:thumbnail" content="https://xxxxxx.link/myimage.png">
 ```
-![](https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![](https://cdn.discordapp.com/attachments/770911106075197441/808754182785204255/unknown.png)
 
 ```html
 <meta name="picnode:sitelogo" content="https://xxxxxx.link/favicon.png">
